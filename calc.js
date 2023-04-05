@@ -3,7 +3,7 @@ export function add(a, b) {
 }
 
 export function mult(a, b) {
-    return a - b;
+    return a * b;
 }
 
 export function subs(a, b) {
